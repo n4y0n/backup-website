@@ -1,6 +1,6 @@
 baseURL = "https://nayon.xyz"
 title = "Nayon's den"
-theme = "hugo-coder"
+theme = "coder"
 languageCode = "it"
 defaultcontentlanguage = "it"
 
