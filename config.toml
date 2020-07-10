@@ -2,36 +2,36 @@ baseURL = "https://nayon.xyz"
 title = "Nayon's den"
 theme = "coder"
 languageCode = "it"
-defaultcontentlanguage = "it"
+defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "bw"
+pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = ""
 
 [params]
     author = "Ernesto Montada Romero"
     info = "Magician"
     description = "Ernesto's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.png"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "favicon-32x32.png"
+    favicon_16 = "favicon-16x16.png"
 
     footercontent = "Sup"
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
 
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    custom_css = []
 
 # Social links
 [[params.social]]
@@ -48,14 +48,14 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/n4y0n/"
+    url = "https://twitter.com/Ernesto72907917/"
 
 # Menu links
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "/posts/"
+    url  = "posts/"
 [[menu.main]]
     name = "About"
     weight = 2
-    url = "/about/"
+    url = "about/"
