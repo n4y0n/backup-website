@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = ""
 
 [params]
-    author = "Ernesto Montada Romero"
+    author = "Ernesto"
     info = "Magician"
     description = "Ernesto's personal website"
     keywords = "blog,developer,personal"
